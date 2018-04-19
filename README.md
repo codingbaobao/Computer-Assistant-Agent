@@ -15,8 +15,8 @@ For more detail, please see our report: [**Report (Chinese)**](使用者電腦�
 * [Speech Recognition](https://github.com/Uberi/speech_recognition)
 * [Pyperclip](https://github.com/asweigart/pyperclip)
 * [Opencv](https://opencv.org/)
-    * Opencv install tutorial:[Ubuntu](https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/) 
-    [MacOS](https://www.pyimagesearch.com/2016/12/19/install-opencv-3-on-macos-with-homebrew-the-easy-way/)
+    * Opencv install tutorial: [[Ubuntu]](https://www.pyimagesearch.com/2016/10/24/ubuntu-16-04-how-to-install-opencv/) 
+    [[MacOS]](https://www.pyimagesearch.com/2016/12/19/install-opencv-3-on-macos-with-homebrew-the-easy-way/)
 # Usage
 `python main.py`
 * Mention that it's for **Chinese user**, for other language user,
