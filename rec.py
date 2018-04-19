@@ -25,7 +25,4 @@ def rec():
         return 0
 
 def t2speech(txt):
-    tts =  gTTS(text=txt,lang='en-US')
-    tts.save('temp.mp3')
-    os.system('mpv temp.mp3')
-    os.remove('temp.mp3')
+    tts =  gTTS(text=txt,lang='en-US').save('{}.mp3'.format(txt))

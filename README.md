@@ -20,10 +20,10 @@ For more detail, please see our report: [**Report (Chinese)**](使用者電腦�
 # Usage
 `python main.py`
 * Mention that it's for **Chinese user**, for other language user,
-you need to change the commands in [`main.py`](). Also, you may feel free to add other commands you want. 
+you need to change the commands in [`main.py`](main.py#L205). Also, you may feel free to add other commands you want. 
 
 
 ***There might have some bug or unstable since it's our experiment code.***
 
 # Demo
-[![Demo](http://img.youtube.com/vi/8iRD1w73fDo/0.jpg)](https://www.youtube.com/watch?v=8iRD1w73fDo)
+[![Demo](http://img.youtube.com/vi/r6wOb-XMY1A/0.jpg)](https://www.youtube.com/watch?v=r6wOb-XMY1A)

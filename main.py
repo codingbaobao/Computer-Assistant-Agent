@@ -211,7 +211,7 @@ def speech():
             continue
             str_length = 1
         elif(speak == 'Google' or speak =='谷歌'):
-            os.system('mpv saySomething.mp3')
+            os.system('mpv ./voice/saySomething.mp3')
             while True:
                 speak = rec.rec()
                 if(speak == 0):
@@ -226,7 +226,7 @@ def speech():
                 elif speak == '滾動':
                     if SC == 0:
                        SC = 1
-                       os.system('mpv scroll.mp3')
+                       os.system('mpv ./voice/scroll.mp3')
                     else:
                        SC = 0
                     break
@@ -236,7 +236,7 @@ def speech():
                     break
                 elif speak == '控制'  or speak == '同志':
                     #rec.t2speech("this is command mode")
-                    os.system('mpv controlMode.mp3')
+                    os.system('mpv ./voice/controlMode.mp3')
                     command = rec.rec()
                     if (command == 0):
                        pass
@@ -245,7 +245,7 @@ def speech():
                     break
                 elif speak == '遊戲':
                     if SN == 0:
-                        os.system('mpv play.mp3')
+                        os.system('mpv ./voice/play.mp3')
                         SN = 1
                     else:
                         SN = 0
