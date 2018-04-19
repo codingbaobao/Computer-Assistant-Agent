@@ -1,5 +1,5 @@
 # Computer-Assistant-Agent
-It's a final project of biomedical Engineering lesson. 
+It's a final project of biomedical Engineering lesson.  
 In this project, we tried to help the people with disabilities 
 to have a comfortable experience in using computer. 
 Byusing face-recognition and speech-recognition, 
@@ -22,8 +22,6 @@ For more detail, please see our report: [**Report (Chinese)**](使用者電腦�
 * Mention that it's for **Chinese user**, for other language user,
 you need to change the commands in [`main.py`](main.py#L205). Also, you may feel free to add other commands you want. 
 
-
-***There might have some bug or unstable since it's our experiment code.***
 
 # Demo
 [![Demo](http://img.youtube.com/vi/r6wOb-XMY1A/0.jpg)](https://www.youtube.com/watch?v=r6wOb-XMY1A)
