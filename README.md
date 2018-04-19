@@ -23,7 +23,7 @@ For more detail, please see our report: [**Report (Chinese)**](使用者電腦�
 you need to change the commands in [`main.py`](main.py#L205). Also, feel free to add other commands you want. 
 
 # TODO
-[ ] Move cursor control to new thread
+[ ] Move cursor control to new thread  
 [ ] Command adding system
 
 # Demo
