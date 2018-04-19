@@ -20,7 +20,7 @@ For more detail, please see our report: [**Report (Chinese)**](使用者電腦�
 # Usage
 `python main.py`
 * Mention that it's for **Chinese user**, for other language user,
-you need to change the commands in [`main.py`](main.py#L205). Also, you may feel free to add other commands you want. 
+you need to change the commands in [`main.py`](main.py#L205). Also, feel free to add other commands you want. 
 
 
 # Demo
