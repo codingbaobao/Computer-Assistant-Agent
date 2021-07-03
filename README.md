@@ -2,7 +2,7 @@
 It's a final project of biomedical Engineering lesson.  
 In this project, we tried to help people with disabilities 
 to have a comfortable experience in using computer. 
-Byusing face-recognition and speech-recognition, 
+By using face-recognition and speech-recognition, 
 we made all the tasks on the computer possible by tracking facial motionand speech. 
 Even playing games is possible.  
 For more detail, please see our report: [**Report (Chinese)**](使用者電腦輔助系統.pdf)
